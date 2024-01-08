@@ -3,5 +3,5 @@
 
 ### Dibuat Oleh :
 ##### Fransiskus Chrisma Eka P
-### NIM
+### NIM :
 ##### G.111.22.0036
